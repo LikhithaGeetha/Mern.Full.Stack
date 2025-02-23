@@ -7,10 +7,10 @@ Node.js (for running the server and client)
 NPM (Node Package Manager
 
 
-nstallation
+installation
 Clone the repository:
 
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/LikhithaGeetha/Mern.Full.Stack.git
 cd repository-name
 Install dependencies:
 
